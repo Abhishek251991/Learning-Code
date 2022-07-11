@@ -1,0 +1,24 @@
+OneDrive URL = https://1drv.ms/u/s!Al4smiznLthAh9NcByg_fNvpkcyt3A?e=NhAp75
+
+...........................................................................................................................
+
+Marvel = https://marvelapp.com/prototype/2d17e476
+
+...........................................................................................................................
+
+Yd ftp details
+
+FTP Username: handyman@youngdecadeprojects.biz
+FTP server: 103.195.185.30
+FTP & explicit FTPS port:  21
+ZBY6*v9Xzbln
+
+...........................................................................................................................
+Push Notification Testing Account
+
+Firebase Server key :- AAAASU-kkC8:APA91bEFrmSg4jQYgYrN4D3ELiSeslr0S4tlaWgcCX6qMz6XRlWaSBmO-hCemPyJnI3S0X5o-9WUQS2DH_Xd_PB08bpb6r4zSPG6EZElz3Q8E97xhJEkHoNcB--AUHemjOelXQ3cWZ6m
+Firebase sender Id :- 314868797487
+
+One signal App Id :- fe075087-0550-4a3b-8e96-b3c6c7a909c5
+
+...........................................................................................................................
